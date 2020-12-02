@@ -4,7 +4,7 @@ vergangende, zukünftige oder anhaltende Projekte.
 
 # Kurze Übersicht der Projekte:
 
-Status: unsortiert, unvollständig
+Status: unsortiert, unvollständig, in Entwicklung
 
 ## Datenbanken 
 * API für die Preisentwicklung und Angebote von Retrospielen.
@@ -29,10 +29,11 @@ Status: unsortiert, unvollständig
 * HAL Bibliothek zur Nutzung von Hardware Interrupt
 
 
-## Softwareentwicklung 
-* Reeingeering eines C++ Spiels und Anspassung
+## [Softwareentwicklung](https://github.com/metalrod/Asteroids) 
+* Reeingeering eines Asteroid Clones in C++  und Anspassung
 * KI welche den Spieler umkreisen 
 * PowerUps 
+* C++, UML
 
 ## Embedded Systems
 * stm32F… Developer Kitit Touchscreen 
