@@ -4,7 +4,7 @@ vergangende, zukünftige oder anhaltende Projekte.
 
 # Kurze Übersicht der Projekte:
 
-Status: unsortiert, unvollstänfig
+Status: unsortiert, unvollständig
 
 ## Datenbanken 
 * API für die Preisentwicklung und Angebote von Retrospielen.
