@@ -7,12 +7,12 @@ vergangende, zukünftige oder anhaltende Projekte.
 Status: unsortiert, unvollstänfig
 
 ## Datenbanken 
-..* API für die Preisentwicklung und Angebote von Retrospielen.
-..* aktuelle Angebote, dazu eine Übersicht der SQL Datenbank in electric und einen Python Crawler für https://www.lemonamiga.com/, der die Spiele durchforstet und relevante Daten von Interesse abspeichert um eine Übersicht der Spiele zu listen
-..* Python, Electric, Ebay-Api
+* API für die Preisentwicklung und Angebote von Retrospielen.
+* aktuelle Angebote, dazu eine Übersicht der SQL Datenbank in electric und einen Python Crawler für https://www.lemonamiga.com/, der die Spiele durchforstet und relevante Daten von Interesse abspeichert um eine Übersicht der Spiele zu listen
+* Python, Electric, Ebay-Api
 
 ## Softwareentwicklung 
-..* Angular MEAN Stack zur Visualisierung gefiltert Daten aus einer MongoDb zum Bereich incidents in traffic. Bezirk, GeoJson 
+* Angular MEAN Stack zur Visualisierung gefiltert Daten aus einer MongoDb zum Bereich incidents in traffic. Bezirk, GeoJson 
 Software Hardware Co Design 
 Tiny Encrypt Decrypt auf einem FPGA. 
 Leiterplatenentwicklung und Projektentwicklung 
