@@ -63,7 +63,7 @@ Status: unsortiert, unvollständig
 ## Rechnerorganisation
 * diverse Aufgaben zur Shell Script Entwicklung 
 
-## Softwareentwicklung 
+## [Softwaretechnik](https://github.com/metalrod/Conway-s-Game-of-life) 
 * Convois Game of Life in C++
 
 ## Softwareentwicklung 
