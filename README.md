@@ -68,8 +68,9 @@ Status: unsortiert, unvollständig, in Entwicklung
 * Conway-s-Game-of-life
 * C++
 
-## Softwareentwicklung 
+## [Softwareentwicklung](https://github.com/metalrod/QT-Widget-Manipulator) 
 * QT Image Manipulator 
+* C++, QT-Framework
 
 ##  [Fortgeschrittene Algorithmen und Programmierung](https://github.com/metalrod/Fortgeschrittene-Algorithmen-und-Programmierung) 
 * Diverse Aufgaben zur Objekt orientierten Sprache
