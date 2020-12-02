@@ -69,4 +69,8 @@ Status: unsortiert, unvollständig
 ## Softwareentwicklung 
 * QT Image Manipulator 
 
+##  Fortgeschrittene Algorithmen und Programmierung 
+* Diverse Aufgaben zur Objekt orientierten Sprache
+* Abschlussprojekt
+* C++, UML
 
