@@ -69,7 +69,7 @@ Status: unsortiert, unvollständig
 ## Softwareentwicklung 
 * QT Image Manipulator 
 
-##  Fortgeschrittene Algorithmen und Programmierung 
+##  [Fortgeschrittene Algorithmen und Programmierung](https://github.com/metalrod/Fortgeschrittene-Algorithmen-und-Programmierung) 
 * Diverse Aufgaben zur Objekt orientierten Sprache
 * Abschlussprojekt
 * C++, UML
