@@ -64,7 +64,8 @@ Status: unsortiert, unvollständig
 * diverse Aufgaben zur Shell Script Entwicklung 
 
 ## [Softwaretechnik](https://github.com/metalrod/Conway-s-Game-of-life) 
-* Convois Game of Life in C++
+* Conway-s-Game-of-life
+* C++
 
 ## Softwareentwicklung 
 * QT Image Manipulator 
