@@ -6,10 +6,10 @@ vergangende, zukünftige oder anhaltende Projekte.
 
 Status: unsortiert, unvollständig, in Entwicklung
 
-## Datenbanken 
+## [Datenbanken](https://github.com/metalrod/Retro-Games-Datenbank) 
 * API für die Preisentwicklung und Angebote von Retrospielen.
 * aktuelle Angebote, dazu eine Übersicht der SQL Datenbank in electric und einen Python Crawler für https://www.lemonamiga.com/, der die Spiele durchforstet und relevante Daten von Interesse abspeichert um eine Übersicht der Spiele zu listen
-* Python, Electric, Ebay-Api
+* Python, Electric, Ebay-Api, Css, Java
 
 ## Softwareentwicklung 
 * Angular MEAN Stack zur Visualisierung gefiltert Daten aus einer MongoDb zum Bereich incidents in traffic. Bezirk, GeoJson 
