@@ -4,7 +4,7 @@ vergangende, zukünftige oder anhaltende Projekte.
 
 # Kurze Übersicht der Projekte:
 
-Status: unsortiert, unvollständig, in Entwicklung
+Status: unsortiert, unvollständig, Dokumentierung in Bearbeitung
 
 ## [Datenbanken](https://github.com/metalrod/Retro-Games-Datenbank) 
 * API für die Preisentwicklung und Angebote von Retrospielen.
